@@ -19,17 +19,15 @@ layout:
   Media:
     style: row
     columns: 4
+  Developer:
+    style: row
+    columns: 4
 
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
 
-quicklaunch:
-  searchDescriptions: true
-  hideInternetSearch: true
-  showSearchSuggestions: true
-  hideVisitURL: true
-  provider: google # google, duckduckgo, bing, baidu, brave or custom
+headerStyle: boxedWidgets
 
 showStats: true
 
