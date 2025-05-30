@@ -23,11 +23,11 @@ layout:
     style: row
     columns: 4
 
-providers:
-  openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+# providers:
+#   openweathermap: openweathermapapikey
+#   weatherapi: weatherapiapikey
 
-headerStyle: boxedWidgets
+headerStyle: boxed
 
 showStats: true
 

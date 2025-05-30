@@ -8,5 +8,19 @@
     disk: /
 
 - search:
-    provider: duckduckgo
+    provider: [duckduckgo, google, bing]
     target: _blank
+    focus: true
+    showSearchSuggestions: true.
+# 4 januari 2023 om 13:51:25 PST
+
+- datetime:
+    text_size: xl
+    format:
+      timeStyle: short
+      
+# - openmeteo:
+#     label: Current
+#     latitude: -3,1019
+#     longitude: -60,025
+#     cache: 5
