@@ -1,0 +1,559 @@
+[2025-05-30T14:20:22.350Z] info: kubernetes.yaml was copied to the config folder
+[2025-05-30T14:20:46.593Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.709Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.712Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.714Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.729Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.733Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.735Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.736Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.740Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.742Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.750Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:20:46.753Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:04.059Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:04.061Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:04.067Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.150Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.198Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.200Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.202Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.205Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.208Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.210Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.212Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.217Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.219Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.220Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.222Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:05.230Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:22.519Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:22.521Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:23.604Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.332Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.340Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.387Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.428Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.431Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.433Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.437Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.441Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.444Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.448Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.450Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.453Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.458Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.462Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:21:34.472Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:23:15.621Z] info: docker.yaml was copied to the config folder
+[2025-05-30T14:23:15.622Z] info: services.yaml was copied to the config folder
+[2025-05-30T14:23:15.622Z] info: bookmarks.yaml was copied to the config folder
+[2025-05-30T14:23:15.623Z] info: widgets.yaml was copied to the config folder
+[2025-05-30T14:23:15.623Z] info: custom.css was copied to the config folder
+[2025-05-30T14:23:15.623Z] info: custom.js was copied to the config folder
+[2025-05-30T14:31:34.581Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:31:34.595Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:31:34.690Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:31:35.835Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:31:56.586Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:31:58.355Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:31:58.603Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:32:04.651Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:33:48.000Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:33:58.967Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:34:06.968Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:34:40.837Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:34:40.856Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:34:40.944Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:34:41.980Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:35:03.779Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:35:03.858Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:35:03.943Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:36:02.655Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:36:30.067Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:37:47.266Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:37:47.357Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:37:47.453Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:10.986Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:11.098Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:11.238Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:45.182Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:45.258Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:45.399Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:46.443Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:38:47.255Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:41:42.508Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:41:50.677Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:42:09.191Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:42:11.142Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:42:16.758Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:42:42.978Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:42:48.803Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:44:58.124Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:47:21.546Z] error: <service-helpers> Error getting services from Docker server 'homepage': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:47:21.674Z] error: <service-helpers> Error getting services from Docker server 'homepage': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:47:21.805Z] error: <service-helpers> Error getting services from Docker server 'homepage': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:48:29.203Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T14:48:29.204Z] error: YAMLException: duplicated mapping key (9:1)
+
+  6 |   host: 127.0.0.1
+  7 |   port: 2375
+  8 | 
+  9 | my-docker:
+------^
+ 10 |   socket: /var/run/docker.sock
+[2025-05-30T14:48:29.299Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T14:48:29.299Z] error: YAMLException: duplicated mapping key (9:1)
+
+  6 |   host: 127.0.0.1
+  7 |   port: 2375
+  8 | 
+  9 | my-docker:
+------^
+ 10 |   socket: /var/run/docker.sock
+[2025-05-30T14:48:29.453Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T14:48:29.454Z] error: YAMLException: duplicated mapping key (9:1)
+
+  6 |   host: 127.0.0.1
+  7 |   port: 2375
+  8 | 
+  9 | my-docker:
+------^
+ 10 |   socket: /var/run/docker.sock
+[2025-05-30T14:48:31.134Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T14:48:31.134Z] error: YAMLException: duplicated mapping key (9:1)
+
+  6 |   host: 127.0.0.1
+  7 |   port: 2375
+  8 | 
+  9 | my-docker:
+------^
+ 10 |   socket: /var/run/docker.sock
+[2025-05-30T14:48:42.172Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:48:42.176Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:48:42.308Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:48:43.942Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:50:49.731Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:53:00.422Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.430Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.434Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.439Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.443Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.447Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.449Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.453Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.467Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:00.484Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.524Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.560Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.562Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.563Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.566Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.569Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.578Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.590Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.591Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.592Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.594Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.595Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:01.606Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:40.012Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:40.015Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:42.060Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.439Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.444Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.579Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.625Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.628Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.632Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.636Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.639Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.642Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.646Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.648Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.650Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.653Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.662Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:53:58.669Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.589Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.619Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.620Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.621Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.622Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.624Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.627Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.635Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.636Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.637Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.638Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.640Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:00.650Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.836Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.875Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.876Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.877Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.878Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.879Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.886Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.887Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.888Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.889Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.890Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.891Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:54:02.901Z] error: Host validation failed for: homelab.local:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-05-30T14:56:13.093Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T14:56:13.227Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-05-30T15:35:47.449Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T15:35:47.450Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:35:47.450Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-05-30T15:35:47.450Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:35:47.454Z] error: Failed to load settings.yaml, please check for errors
+[2025-05-30T15:35:47.454Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:35:47.468Z] error: <index> YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at u (/app/.next/server/pages/browserconfig.xml.js:9:1359)
+    at L (/app/.next/server/pages/index.js:7:24309)
+[2025-05-30T15:35:47.525Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T15:35:47.525Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:35:47.525Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-05-30T15:35:47.525Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:35:47.526Z] error: Failed to load settings.yaml, please check for errors
+[2025-05-30T15:35:47.526Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:36:01.405Z] error: Failed to discover services, please check docker.yaml for errors or remove example entries.
+[2025-05-30T15:36:01.405Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:36:01.405Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-05-30T15:36:01.405Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
+[2025-05-30T15:36:01.408Z] error: Failed to load settings.yaml, please check for errors
+[2025-05-30T15:36:01.408Z] error: YAMLException: duplicated mapping key (34:1)
+
+ 31 |   hideVisitURL: true
+ 32 |   provider: google # google, du ...
+ 33 | 
+ 34 | quicklaunch:
+------^
+ 35 |   provider: custom
+ 36 |   url: https://www.ecosia.org/s ...
