@@ -1,0 +1,27 @@
+services:
+  glances:
+      image: nicolargo/glances:ubuntu-latest-full
+      container_name: glances
+      restart: always
+      pid: host
+      network_mode: host
+      ports:
+        - "61208:61208"
+      volumes:
+        - /var/run/docker.sock:/var/run/docker.sock:ro
+      environment:
+        - GLANCES_OPT=-w
+      labels:
+        - homepage.group=Utility
+        - homepage.name=Glances
+        - homepage.icon=glances.png
+        - homepage.href=http://homelab.local:61208/
+        - homepage.description=System monitoring dashboard
+      # For nvidia GPUs
+      deploy:
+        resources:
+          reservations:
+            devices:
+              - driver: nvidia
+                count: all
+                capabilities: [gpu]
