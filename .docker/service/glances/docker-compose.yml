@@ -2,7 +2,7 @@ services:
   glances:
       image: nicolargo/glances:ubuntu-latest-full
       container_name: glances
-      restart: always
+      # restart: always
       pid: host
       network_mode: host
       ports:
