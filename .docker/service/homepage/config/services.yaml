@@ -16,3 +16,13 @@
 #     - My Third Service:
 #         href: http://localhost/
 #         description: Homepage is 😎
+
+# - System Monitoring:
+#     - Glances:
+#         icon: glances.png
+#         href: http://homelab.local:61208
+#         description: System monitoring dashboard
+        # widget:
+        #   type: glances
+        #   url: http://glances:61208
+        

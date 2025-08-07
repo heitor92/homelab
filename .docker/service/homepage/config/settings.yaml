@@ -22,6 +22,9 @@ layout:
   Developer:
     style: row
     columns: 4
+  Utility:
+    style: row
+    columns: 4
 
 # providers:
 #   openweathermap: openweathermapapikey

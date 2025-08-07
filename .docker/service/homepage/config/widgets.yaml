@@ -3,9 +3,12 @@
 # https://gethomepage.dev/configs/info-widgets/
 
 - resources:
+    backend: resources
     cpu: true
+    expanded: true
     memory: true
     disk: /
+    gpu: true  # Habilita monitoramento de GPU
 
 - search:
     provider: [duckduckgo, google, bing]
@@ -18,7 +21,7 @@
     text_size: xl
     format:
       timeStyle: short
-      
+
 # - openmeteo:
 #     label: Current
 #     latitude: -3,1019
