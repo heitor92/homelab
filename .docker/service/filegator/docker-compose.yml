@@ -2,7 +2,7 @@ services:
   filegator:
     container_name: filegator
     image: filegator/filegator
-    restart: always
+    # restart: always
     labels:
       - homepage.group=Utility
       - homepage.name=filegator
