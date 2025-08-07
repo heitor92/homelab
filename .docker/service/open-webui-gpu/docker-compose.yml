@@ -1,0 +1,30 @@
+services:
+  open-webui-gpu:
+    image: ghcr.io/open-webui/open-webui:cuda
+    container_name: open-webui-gpu
+    ports:
+      - "3001:8080"
+    volumes:
+      - open-webui-gpu:/app/backend/data
+    # environment:
+    #   - OLLAMA_BASE_URL=https://example.com # Adicione url para ollama
+    #   - OPENAI_API_KEY=your_secret_key # Add secret key da opennai
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    # restart: always
+    labels:
+      - homepage.group=Development
+      - homepage.name=Open WebUI - GPU
+      - homepage.icon=open-webui.png
+      - homepage.href=http://homelab.local:3001/
+      - homepage.description=Chat IA para suporte com GPU
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+volumes:
+  open-webui-gpu:

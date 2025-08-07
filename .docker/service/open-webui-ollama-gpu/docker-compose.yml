@@ -1,0 +1,43 @@
+services:
+  ollama-gpu:
+    image: ollama/ollama
+    container_name: ollama-gpu
+    ports:
+      - "11434:11434"
+    volumes:
+      - bundle-ollama-gpu:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    # restart: unless-stopped
+  open-webui-gpu:
+    image: ghcr.io/open-webui/open-webui:cuda
+    container_name: open-webui-gpu
+    ports:
+      - "3001:8080"
+    environment:
+      - OLLAMA_BASE_URL=http://ollama-gpu:11434
+    volumes:
+      - bundle-open-webui-gpu:/app/backend/data
+    # restart: always
+    labels:
+      - homepage.group=Development
+      - homepage.name=Open WebUI With Ollama - Bundle -  GPU
+      - homepage.icon=open-webui.png
+      - homepage.href=http://homelab.local:3001/
+      - homepage.description=Bundle Open WebUI com Ollama. Chat IA para suporte com GPU
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+volumes:
+  bundle-ollama-gpu:
+  bundle-open-webui-gpu:

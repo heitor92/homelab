@@ -1,0 +1,12 @@
+services:
+  ollama-cpu:
+    image: ollama/ollama
+    container_name: ollama-cpu
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-cpu:/root/.ollama
+    # restart: unless-stopped
+
+volumes:
+  ollama-cpu:
