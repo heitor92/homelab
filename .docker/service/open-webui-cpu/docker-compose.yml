@@ -17,6 +17,6 @@ services:
       - homepage.name=Open WebUI - CPU
       - homepage.icon=open-webui.png
       - homepage.href=http://homelab.local:3001/
-      - homepage.description=Chat IA para somente CPU
+      - homepage.description=Chat IA com suporte a CPU
 volumes:
   open-webui-cpu:
