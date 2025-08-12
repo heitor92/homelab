@@ -6,6 +6,12 @@ services:
       - "9090:9090"
     volumes:
       - ../../../DATA/invoke-ai:/invokeai
+    labels:
+      - homepage.group=Development
+      - homepage.name=Invoke AI
+      - homepage.icon=invoke-ai.png
+      - homepage.href=http://homelab.local:9090/
+      - homepage.description=Gerador de imagens
     deploy:
       resources:
         reservations:
