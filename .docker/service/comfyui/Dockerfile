@@ -112,7 +112,7 @@ RUN mkdir -p models/checkpoints models/vae models/clip models/unet \
     chmod -R 755 /app
 
 # Configurar volumes
-VOLUME ["/app/models", "/app/input", "/app/output", "/app/custom_nodes"]
+# VOLUME ["/app/models", "/app/input", "/app/output", "/app/custom_nodes"]
 
 # Expor porta
 EXPOSE 8188
