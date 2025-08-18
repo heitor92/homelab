@@ -1,0 +1,120 @@
+services:
+  comfyui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    user: "${UID:-1000}:${GID:-1000}"
+    image: heitor92/meu-comfyui:latest
+    container_name: comfyui-app
+    
+    # Configurações de rede
+    ports:
+      - "8188:8188"
+    networks:
+      - comfyui-network
+    
+    # Volumes com permissões adequadas
+    volumes:
+      - comfyui-data:/app
+      # - ../../../DATA/comfyui/models:/app/models
+      # - ../../../DATA/comfyui/input:/app/input
+      # - ../../../DATA/comfyui/output:/app/output
+      # - ../../../DATA/comfyui/custom_nodes:/app/custom_nodes
+      # Volume para logs (opcional)
+      # - ../../../DATA/comfyui/logs:/app/logs
+    
+    # Variáveis de ambiente otimizadas para RTX 2060 Super
+    environment:
+      - PYTHONUNBUFFERED=1
+      - NVIDIA_VISIBLE_DEVICES=all
+      - PYTHONDONTWRITEBYTECODE=1
+      # Otimizações de memória PyTorch
+      - PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:512,garbage_collection_threshold:0.8
+      # Usar CPU para VAE quando VRAM estiver baixa
+      - CUDA_VISIBLE_DEVICES=0
+      # Configurações para RTX 2060 Super
+      - COMFYUI_ARGS=--lowvram --cpu-vae --preview-method auto
+    
+    # Configurações de recursos otimizadas para RTX 2060 Super
+    deploy:
+      resources:
+        # limits:
+        #   memory: 16G  # Usar metade da RAM disponível
+        #   cpus: '6'    # Ajustar conforme seus cores de CPU
+        reservations:
+          # memory: 4G
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    
+    # Configuração de swap (importante para VRAM baixa)
+    shm_size: '2gb'
+    
+    # Configurações de segurança
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    # Adicionar apenas capacidades necessárias se precisar
+    # cap_add:
+    #   - SETUID
+    #   - SETGID
+    
+    # Política de reinicialização
+    # restart: unless-stopped
+    
+    # Aguardar dependências se houver
+    # depends_on:
+    #   - redis  # se usar cache Redis (opcional)
+    
+    # Labels para organização
+    labels:
+      # - "com.example.description=ComfyUI Stable Diffusion"
+      # - "com.example.department=ml"
+      # - "com.example.label-with-value=prod"
+      - homepage.group=Development
+      - homepage.name=ComfyUI
+      - homepage.icon=comfyui.png
+      - homepage.href=http://homelab.local:8188/
+      - homepage.description=ComfyUI
+
+  # Serviço Redis opcional para cache
+  # redis:
+  #   image: redis:7-alpine
+  #   container_name: comfyui-redis
+  #   networks:
+  #     - comfyui-network
+  #   volumes:
+  #     - redis-data:/data
+  #   restart: unless-stopped
+  #   # Configurações de segurança para Redis
+  #   command: redis-server --requirepass ${REDIS_PASSWORD:-defaultpassword}
+
+  # Nginx proxy reverso opcional
+  # nginx:
+  #   image: nginx:alpine
+  #   container_name: comfyui-nginx
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - ./nginx.conf:/etc/nginx/nginx.conf:ro
+  #     - ./ssl:/etc/nginx/ssl:ro  # certificados SSL
+  #   networks:
+  #     - comfyui-network
+  #   depends_on:
+  #     - comfyui
+  #   restart: unless-stopped
+
+networks:
+  comfyui-network:
+    driver: bridge
+    # ipam:
+    #   config:
+    #     - subnet: 172.20.0.0/16
+
+volumes:
+  comfyui-data:
+#   redis-data:
+#     driver: local
