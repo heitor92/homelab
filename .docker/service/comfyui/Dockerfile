@@ -94,7 +94,7 @@ RUN apt-get update && \
 
 
 # Criar usuário não-root para segurança
-RUN groupadd -r comfyui && useradd -r -g comfyui -u 1000 comfyui
+RUN groupadd -r comfyui && useradd -r -g comfyui -u 1000 -m comfyui
 
 # Copiar ambiente virtual do stage builder
 COPY --from=builder /opt/venv /opt/venv
