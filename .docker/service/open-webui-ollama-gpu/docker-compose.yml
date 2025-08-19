@@ -6,6 +6,8 @@ services:
       - "11434:11434"
     volumes:
       - bundle-ollama-gpu:/root/.ollama
+    networks:
+      - openwebui-ollama-ipv6
     deploy:
       resources:
         reservations:
@@ -24,6 +26,8 @@ services:
     volumes:
       - bundle-open-webui-gpu:/app/backend/data
     # restart: always
+    networks:
+      - openwebui-ollama-ipv6
     labels:
       - homepage.group=Development
       - homepage.name=Open WebUI With Ollama - Bundle -  GPU
@@ -41,3 +45,8 @@ services:
 volumes:
   bundle-ollama-gpu:
   bundle-open-webui-gpu:
+
+networks:
+  openwebui-ollama-ipv6:
+    enable_ipv6: true
+    driver: bridge

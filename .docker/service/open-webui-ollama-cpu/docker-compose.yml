@@ -6,6 +6,8 @@ services:
       - "11434:11434"
     volumes:
       - bundle-ollama-cpu:/root/.ollama
+    networks:
+      - openwebui-ollama-ipv6
     # restart: unless-stopped
   open-webui-cpu:
     image: ghcr.io/open-webui/open-webui:main
@@ -17,6 +19,8 @@ services:
     volumes:
       - bundle-open-webui-cpu:/app/backend/data
     # restart: always
+    networks:
+      - openwebui-ollama-ipv6
     labels:
       - homepage.group=Development
       - homepage.name=Open WebUI With Ollama - Bundle -  CPU
@@ -27,3 +31,8 @@ services:
 volumes:
   bundle-ollama-cpu:
   bundle-open-webui-cpu:
+
+networks:
+  openwebui-ollama-ipv6:
+    enable_ipv6: true
+    driver: bridge
