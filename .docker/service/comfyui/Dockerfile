@@ -106,10 +106,12 @@ WORKDIR /app
 
 # Criar diretórios necessários
 RUN mkdir -p models/checkpoints models/vae models/clip models/unet \
-        models/loras models/controlnet models/upscale_models \
-        input output custom_nodes temp && \
+    models/loras models/controlnet models/upscale_models \
+    input output custom_nodes temp && \
     chown -R comfyui:comfyui /app && \
-    chmod -R 755 /app
+    chmod -R 755 /app && \
+    # Mude a posse da pasta venv para o usuário 'comfyui'
+    chown -R comfyui:comfyui /opt/venv
 
 # Configurar volumes
 # VOLUME ["/app/models", "/app/input", "/app/output", "/app/custom_nodes"]
