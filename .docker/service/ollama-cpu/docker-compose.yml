@@ -7,6 +7,13 @@ services:
     volumes:
       - ollama-cpu:/root/.ollama
     # restart: unless-stopped
+    networks:
+      - ollama-ipv6
 
 volumes:
   ollama-cpu:
+
+networks:
+  ollama-ipv6:
+    enable_ipv6: true
+    driver: bridge

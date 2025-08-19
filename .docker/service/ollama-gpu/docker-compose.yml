@@ -6,6 +6,8 @@ services:
       - "11434:11434"
     volumes:
       - ollama-gpu:/root/.ollama
+    networks:
+      - ollama-ipv6
     deploy:
       resources:
         reservations:
@@ -17,3 +19,8 @@ services:
 
 volumes:
   ollama-gpu:
+
+networks:
+  ollama-ipv6:
+    enable_ipv6: true
+    driver: bridge
