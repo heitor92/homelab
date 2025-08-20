@@ -1,0 +1,25 @@
+# Internal metadata - do not edit:
+schema_version: 4.0.2
+
+# Ativar modo Low-VRAM (essencial)
+enable_partial_loading: true
+
+# Otimização do alocador CUDA PyTorch
+pytorch_cuda_alloc_conf: backend:cudaMallocAsync
+
+# Cache RAM - usando 28GB dos 32GB disponíveis (deixando 4GB para o sistema)
+max_cache_ram_gb: 28
+
+# Cache VRAM - usando 4GB dos 8GB (deixando 4GB para working memory)
+# IMPORTANTE: 8GB total - 4GB working memory = 4GB máximo seguro
+max_cache_vram_gb: 4
+
+# Working memory - aumentando para 4GB para modelos maiores como FLUX
+# Isso garante que operações pesadas não causem OOM
+device_working_mem_gb: 4
+
+# Manter cópia dos pesos na RAM (recomendado com 32GB RAM)
+# Acelera troca de modelos e aplicação de LoRAs
+keep_ram_copy_of_weights: true
+
+# Put user settings here - see https://invoke-ai.github.io/InvokeAI/configuration/:

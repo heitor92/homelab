@@ -5,7 +5,10 @@ services:
     ports:
       - "9090:9090"
     volumes:
-      - ../../../DATA/invoke-ai:/invokeai
+      - ../../../DATA/invokeai:/invokeai
+      - ../../../DATA/models:/invokeai/models
+      - ../../../DATA/outputs:/invokeai/outputs
+      - ../../../DATA/config:/invokeai/config
     labels:
       - homepage.group=Development
       - homepage.name=Invoke AI
